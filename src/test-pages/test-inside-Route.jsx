@@ -1,12 +1,12 @@
-import { Routes, Route, Link } from 'react-router-dom';
-import Home from 'path/to/pages/Home';
-import About from 'path/to/pages/About';
-import Products from 'path/to/pages/Products';
-import NotFound from 'path/to/pages/NotFound';
-import ProductDetails from 'path/to/pages/ProductDetails';
-import Mission from 'path/to/components/Mission';
-import Team from 'path/to/components/Team';
-import Reviews from 'path/to/components/Reviews';
+// import { Routes, Route, Link } from 'react-router-dom';
+// import Home from 'path/to/pages/Home';
+// import About from 'path/to/pages/About';
+// import Products from 'path/to/pages/Products';
+// import NotFound from 'path/to/pages/NotFound';
+// import ProductDetails from 'path/to/pages/ProductDetails';
+// import Mission from 'path/to/components/Mission';
+// import Team from 'path/to/components/Team';
+// import Reviews from 'path/to/components/Reviews';
 
 export const App = () => {
   return (
